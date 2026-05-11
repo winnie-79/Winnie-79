@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**winnie-79/Winnie-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Nicolás Mateo Cajes Becerril
 
-Here are some ideas to get you started:
+💻 Estudiante de Desarrollo de Software en SENATI  
+🚀 Apasionado por la programación y el aprendizaje constante  
+📚 Actualmente aprendiendo Python, Java, SQL y desarrollo web  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- Python  
+- Java  
+- SQL  
+- HTML & CSS  
+- Git & GitHub  
+
+## 📌 Sobre mí
+Me interesa desarrollar soluciones tecnológicas eficientes y seguir mejorando mis habilidades mediante proyectos y práctica constante.
+
+## 📫 Contacto
+📧 Email: yosoynico51@gmail.com
+###GitHub Stants
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Winnie-79&theme=merko)](https://git.io/streak-stats)
+
